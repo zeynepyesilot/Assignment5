@@ -1,0 +1,11 @@
+
+body {
+  background-color: #fffebb; 
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+input:focus {
+  outline: none; 
+  border: 2px solid #c88ef2 !important; 
+  box-shadow: 0 0 8px rgb(204, 141, 248); }
